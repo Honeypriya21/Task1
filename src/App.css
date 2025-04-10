@@ -1,0 +1,21 @@
+/* src/App.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app {
+  height: 100vh;
+  background-color: #add8e6; /* Light blue background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #333;
+  font-family: sans-serif;
+}
